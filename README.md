@@ -3,7 +3,7 @@ This solidity program is a smart contract of error handling. The project aims to
 
 ## Description
 
-This smart contract is implementing the error handling statements via means of student"s profile management. There is one owner who setup the student's inital details and then the students can check then by using his uid and password provided bt the owner. There are two functions used in this program one is setDetails and another one is getDetails. Inside setDetails there is a assert statement and inside getDetails there are require and revert statements.
+This smart contract is implementing the error handling statements via means of student's profile management. There is one owner who setup the student's initial details and then the students can check them by using his uid and password provided by the owner. There are two functions used in this program one is setDetails and another one is getDetails. Inside setDetails there is a assert statement and inside getDetails there are require and revert statements.
 By this program the reader gets the real world implementation of error handling statements.
 
 ## Getting Started
